@@ -26,4 +26,4 @@ Objective:
 The primary objective of this project is to analyze transaction times and understand the timing and frequency of transactions within the dataset. By examining transaction timestamps, businesses can identify peak transaction periods, assess transactional patterns, and optimize resource allocation.
 
 
-USE THE LINK TO COPY THE CODE: 
+USE THE LINK TO COPY THE CODE: https://github.com/Tupsamundarsachin/SQL-Projects
